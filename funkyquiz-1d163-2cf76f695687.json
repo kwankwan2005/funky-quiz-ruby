@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "funkyquiz-1d163",
+  "private_key_id": "2cf76f695687f7e4b912eef57d152e5fed4b2bd2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgnhOMkCcHx7+d\nXCXfpIKyFfc5xbfCpknWlMPlwWMWF6beUQk2GML8VWZA78+uTp1j/cK6Q3es/Gv5\nJx+Pe6ERsfezOGTZPUvwaU/qUA+wg/x+KYYikHEeI1ODj0d1nVKTcipnmM1y1tKg\nMkyJPyfr4K2dScw2W92mb4z2anHuDXzAarg+rBMGDA0HuakLX7bVMyl4JaZLlMRC\n2y3OBl3tGUouSEQpgvPLR1VlEAD0mRAQEuENMWJ1DYWqLUqSFR3auLBp7vefgayF\ndUf2VPlfnBmWq83Ajcd115iwUtyjSvufHxirg5V/nWMvQkQcax0gqzUzed18K/Cx\nK6Yv5HvlAgMBAAECggEAEmQHOQEIdwuYFRyH+aOMk3eQZz0MXW1M5xUBmT0ba1wp\n7yq4M0mCigH9Q1IyJXM68kgME+fFvDjq5AxmwLcXKj+GbS733Sf3mf909w9TvJJg\nRtHaWfrP+PNyjI3LUNxCqD9aO6JzY8LVOyKHQO/KUmfXeTsJ9u9t4bDEIzLs+KTE\nDRzouK1T6EbmsHONhziiiiyHDptTfmZKgEIcE3+L133veh2mnDqu6MzGZq0GOX48\nCkwtKhw4sdpgok6CJPv73tuQkQGsn2FUXvXPi1FANQGnCGdMaipcn8bLhTgtR9Y9\nNx193hnP3W4dA6vLp03oprg2ysPCfrAg6j0T5hpcAQKBgQDfRkWaGvs/KSYnqGl2\nhk6Jnga32lEG9TuPuUkQVvx+u4dlXNLZ+Jtz4cGEk8fpCa2adpd+/kRj2ZQArlM2\nx99dQ7Wx88MPsyLWWWjrzrLpWJTweHPsoWxXZ7oWFKY+UWfl0XJ70pqH38kn7/be\nW9ULDuQuPjEB8RDoyOZnMLLgtQKBgQC4KMggIdjKZHGqt2PqpZt80AqPQgw6BlJZ\n+iFANSQYRFdAPrmezPiWLENADTUYPbxUAxhUvl3jYYK2xMBFV6We7HSMf1/Xgxe/\nyFuO4TE52AWogIbctHXPxwoFM0rTz9tFYccwYARqK6I0FyXB5NTYDWGV3f/O588s\nIAPO/Z2ccQKBgQC0Tq6UtediaVuruSB6HBo+noR0YvT+dnqEJbBwZp7/xXehDuYk\nKtV3LsA1zZYqhqtQyyaq4rHeJO6V4jHHUn/6dFy9+cnz2sluasQFcmYfdW7KB6wu\nU2oH5/dqL4DVYK5T9OHMRxaOVdW/z9UAWw7gIEV7ZrPzCneKVftjJ/u85QKBgAwm\nhK26DfeskONWnj0JGC0v/MJe9TeO2zgcjL0TxIHlYGxYtx6HH4+o8/bx6CLlT9ur\nKJvOw5sQ//LXIGhy0/acW0Q50zUA7Tw2F/RhX0IVwqnPcRZ2wZ8n3r1hGPrIqAr3\n3JCQhToMDvOo41DbrD9lAp9EunAIU17x7c5mZVPBAoGAXabNJyRmBuM4dZ64GFYF\ncCs1TIg2B+174FKcb1OWUfqy+BasUiJFw+LBBw9OOPLj+Qs7UHdu7mm4Kbx6WsLL\nhB1FXdGYtjhfFHSYHgP2/kKu+GdPCmV93D8Cz1kw+dqfZt7Tf3GMXUAuROCv+5J0\nRdTdgHkWAK+MEcLw7ThYqZo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cos10009-kwan-hd-project@funkyquiz-1d163.iam.gserviceaccount.com",
+  "client_id": "108838431114776609917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cos10009-kwan-hd-project%40funkyquiz-1d163.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
