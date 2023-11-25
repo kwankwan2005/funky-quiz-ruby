@@ -11,7 +11,7 @@ This program has two main parts:
 ## 👨‍💻 Author
 
 - Author: Nguyen Anh Quan - 104850254, from Swinburne University of Technology.
-- If you have any troubles when running/editing the code, or there are bugs/errors, you can contact me via email: [Personal Email](kwankwan.study@gmail.com) or [School Email](104850254@student.swin.edu.au), or via [Facebook](https://www.facebook.com/kwankwan2005/).
+- If you have any troubles when running/editing the code, or there are bugs/errors, you can contact me via email: <kwankwan.study@gmail.com> (Personal) or <104850254@student.swin.edu.au> (School), or via [Facebook](https://www.facebook.com/kwankwan2005/).
 
 
 ## 😇 Libraries and code used
